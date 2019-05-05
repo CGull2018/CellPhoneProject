@@ -1,0 +1,11 @@
+C:\Users\Gullickson\source\repos\PhoneServiceApp\bin\Debug\netcoreapp2.1\PhoneServiceApp.deps.json
+C:\Users\Gullickson\source\repos\PhoneServiceApp\bin\Debug\netcoreapp2.1\PhoneServiceApp.runtimeconfig.json
+C:\Users\Gullickson\source\repos\PhoneServiceApp\bin\Debug\netcoreapp2.1\PhoneServiceApp.runtimeconfig.dev.json
+C:\Users\Gullickson\source\repos\PhoneServiceApp\bin\Debug\netcoreapp2.1\PhoneServiceApp.dll
+C:\Users\Gullickson\source\repos\PhoneServiceApp\bin\Debug\netcoreapp2.1\PhoneServiceApp.pdb
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.csprojAssemblyReference.cache
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.AssemblyInfoInputs.cache
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.AssemblyInfo.cs
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.dll
+C:\Users\Gullickson\source\repos\PhoneServiceApp\obj\Debug\netcoreapp2.1\PhoneServiceApp.pdb
